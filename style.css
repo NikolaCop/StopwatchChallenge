@@ -1,0 +1,50 @@
+#stopwatch {
+    width: 300px;
+    height: 300px;
+}
+
+.body {
+background: url("https://wallpaperaccess.com/full/2825711.gif");
+background-size: cover;
+font-family: 'Press Start 2P', cursive;
+}
+
+#button-start {
+
+height: 75px;
+width: 200px;
+border-width: 5px;
+border-color: rgb(12, 105, 0);
+}
+
+#button-stop {
+
+height: 75px;
+width: 200px;
+border-width: 5px;
+border-color: rgb(139, 0, 0);
+}
+
+#button-reset {
+
+height: 75px;
+width: 200px;
+border-width: 5px;
+border-color: rgb(139, 107, 0);
+}
+
+.text {
+    color: rgb(235, 235, 235);
+}
+
+.timeText {
+    color: rgb(235, 235, 235);
+}
+
+#tens{
+    font-size: 2em;
+}
+
+#seconds {
+    font-size: 2em;
+}

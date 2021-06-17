@@ -48,3 +48,8 @@ border-color: rgb(139, 107, 0);
 #seconds {
     font-size: 2em;
 }
+
+.box2 {
+    background-color: rgba(0,0,0,.5);
+    color: #fff;
+}
